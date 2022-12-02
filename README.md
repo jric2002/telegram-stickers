@@ -4,6 +4,10 @@
 
 Stickers for Telegram
 
+| Name | Link |
+| :--- | :--- |
+| Jared | https://t.me/addstickers/jared_dark |
+
 ## Soporte
 Si tienes alguna sugerencia o si ocurre algún problema, puedes dejar tu comentario en la sección de [Issues](https://github.com/jric2002/telegram-stickers/issues).
 
